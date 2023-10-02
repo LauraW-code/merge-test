@@ -1,3 +1,4 @@
+LOCAL
 # merge-test
 
 This is the README file for the merge-test project.
